@@ -58,6 +58,7 @@
 							text="{masterView>/filterBarLabel}" />
 					</Toolbar>
 				</infoToolbar>
+				fdgfhfdhgdghghgghhghghfgh
 				<items>
 					<ObjectListItem
 						type="{= ${device>/system/phone} ? 'Active' : 'Inactive'}"
